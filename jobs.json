@@ -1,8 +1,31 @@
 {
-  "updated_at": "2026-05-17T14:30:35+09:00",
-  "total_count": 0,
+  "updated_at": "2026-05-17T14:33:28+09:00",
+  "total_count": 1,
   "errors": {
-    "snuh": null
+    "snuh": null,
+    "severance": null
   },
-  "jobs": []
+  "jobs": [
+    {
+      "hospital": "세브란스병원-신촌",
+      "source": "YUHS Recruiter",
+      "title": "[일반-신촌] 임상병리사(계약직) 세브)진단검사의학팀 26.05 모집 (육아휴직 대체)",
+      "status": "접수중",
+      "career_type": "일반채용",
+      "application_period": "2026.05.12 00:00 ~ 2026.05.21 23:59",
+      "deadline_count": 4,
+      "positions": [
+        {
+          "employment_type": "계약직",
+          "department": "진단검사의학팀",
+          "headcount": "1명",
+          "qualification": "임상병리사 면허",
+          "contract_period": "발령일 ~ 최대 2027년 1월 12일까지"
+        }
+      ],
+      "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=253210&systemKindCode=MRS2",
+      "jobnotice_sn": 253210,
+      "scraped_at": "2026-05-17T14:32:49+09:00"
+    }
+  ]
 }
