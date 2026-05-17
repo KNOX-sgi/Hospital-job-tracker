@@ -2,6 +2,7 @@ import json
 from datetime import datetime, timezone, timedelta
 
 from scrapers import snuh
+from scrapers import severance
 
 
 KST = timezone(timedelta(hours=9))
@@ -9,20 +10,26 @@ KST = timezone(timedelta(hours=9))
 
 def main():
     all_jobs = []
+    errors = {}
 
     try:
         snuh_jobs = snuh.collect(max_pages=5)
         all_jobs.extend(snuh_jobs)
-        snuh_error = None
+        errors["snuh"] = None
     except Exception as e:
-        snuh_error = str(e)
+        errors["snuh"] = str(e)
+
+    try:
+        severance_jobs = severance.collect()
+        all_jobs.extend(severance_jobs)
+        errors["severance"] = None
+    except Exception as e:
+        errors["severance"] = str(e)
 
     output = {
         "updated_at": datetime.now(KST).isoformat(timespec="seconds"),
         "total_count": len(all_jobs),
-        "errors": {
-            "snuh": snuh_error,
-        },
+        "errors": errors,
         "jobs": all_jobs,
     }
 
