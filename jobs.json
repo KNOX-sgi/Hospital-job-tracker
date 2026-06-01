@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-06-02T07:20:10+09:00",
+  "updated_at": "2026-06-02T08:49:35+09:00",
   "total_count": 0,
   "errors": {
     "snuh": null,
-    "severance": "Expecting value: line 1 column 1 (char 0)"
+    "severance": null
   },
   "jobs": []
 }
