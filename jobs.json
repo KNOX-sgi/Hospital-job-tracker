@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-05T08:43:04+09:00",
-  "total_count": 2,
+  "updated_at": "2026-06-05T11:13:21+09:00",
+  "total_count": 3,
   "errors": {
     "snuh": null,
     "severance": null
@@ -25,7 +25,28 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=255942&systemKindCode=MRS2",
       "jobnotice_sn": 255942,
-      "scraped_at": "2026-06-05T08:42:24+09:00"
+      "scraped_at": "2026-06-05T11:12:39+09:00"
+    },
+    {
+      "hospital": "세브란스병원-강남",
+      "source": "YUHS Recruiter",
+      "title": "[일반-강남] 임상병리사(정규직전환조건) 신경과 26.06 모집",
+      "status": "접수중",
+      "career_type": "일반채용",
+      "application_period": "2026.06.05 00:00 ~ 2026.06.08 23:59",
+      "deadline_count": 3,
+      "positions": [
+        {
+          "employment_type": "정규직 전환조건",
+          "department": "",
+          "headcount": "1명",
+          "qualification": "임상병리사 면허",
+          "contract_period": ""
+        }
+      ],
+      "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=256016&systemKindCode=MRS2",
+      "jobnotice_sn": 256016,
+      "scraped_at": "2026-06-05T11:13:16+09:00"
     },
     {
       "hospital": "세브란스병원-강남",
@@ -46,7 +67,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=255557&systemKindCode=MRS2",
       "jobnotice_sn": 255557,
-      "scraped_at": "2026-06-05T08:43:00+09:00"
+      "scraped_at": "2026-06-05T11:13:17+09:00"
     }
   ]
 }
