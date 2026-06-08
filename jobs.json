@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-08T23:54:43+09:00",
-  "total_count": 4,
+  "updated_at": "2026-06-09T02:43:35+09:00",
+  "total_count": 2,
   "errors": {
     "snuh": null,
     "severance": null
@@ -13,7 +13,7 @@
       "status": "접수중",
       "career_type": "일반채용",
       "application_period": "2026.06.04 00:00 ~ 2026.06.10 23:59",
-      "deadline_count": 2,
+      "deadline_count": 1,
       "positions": [
         {
           "employment_type": "단기계약직",
@@ -25,49 +25,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=255942&systemKindCode=MRS2",
       "jobnotice_sn": 255942,
-      "scraped_at": "2026-06-08T23:54:01+09:00"
-    },
-    {
-      "hospital": "세브란스병원-강남",
-      "source": "YUHS Recruiter",
-      "title": "[일반-강남] 임상병리사(정규직전환조건) 신경과 26.06 모집",
-      "status": "접수중",
-      "career_type": "일반채용",
-      "application_period": "2026.06.05 00:00 ~ 2026.06.08 23:59",
-      "deadline_count": 0,
-      "positions": [
-        {
-          "employment_type": "정규직 전환조건",
-          "department": "",
-          "headcount": "1명",
-          "qualification": "임상병리사 면허",
-          "contract_period": ""
-        }
-      ],
-      "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=256016&systemKindCode=MRS2",
-      "jobnotice_sn": 256016,
-      "scraped_at": "2026-06-08T23:54:38+09:00"
-    },
-    {
-      "hospital": "세브란스병원-강남",
-      "source": "YUHS Recruiter",
-      "title": "[일반-강남] 임상병리사(계약직;단시간) 신경과 26.06 모집",
-      "status": "접수중",
-      "career_type": "일반채용",
-      "application_period": "2026.06.02 00:00 ~ 2026.06.08 23:59",
-      "deadline_count": 0,
-      "positions": [
-        {
-          "employment_type": "계약직",
-          "department": "",
-          "headcount": "1명",
-          "qualification": "임상병리사 면허",
-          "contract_period": "채용일로부터 1년 * 추후 연장 여부 결정"
-        }
-      ],
-      "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=255557&systemKindCode=MRS2",
-      "jobnotice_sn": 255557,
-      "scraped_at": "2026-06-08T23:54:38+09:00"
+      "scraped_at": "2026-06-09T02:42:54+09:00"
     },
     {
       "hospital": "세브란스병원-용인",
@@ -76,7 +34,7 @@
       "status": "접수중",
       "career_type": "일반채용",
       "application_period": "2026.06.08 00:00 ~ 2026.06.17 23:59",
-      "deadline_count": 9,
+      "deadline_count": 8,
       "positions": [
         {
           "employment_type": "계약직",
@@ -88,7 +46,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=256287&systemKindCode=MRS2",
       "jobnotice_sn": 256287,
-      "scraped_at": "2026-06-08T23:54:40+09:00"
+      "scraped_at": "2026-06-09T02:43:32+09:00"
     }
   ]
 }
