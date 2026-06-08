@@ -1,9 +1,73 @@
 {
-  "updated_at": "2026-06-08T10:38:58+09:00",
-  "total_count": 0,
+  "updated_at": "2026-06-08T15:28:23+09:00",
+  "total_count": 3,
   "errors": {
     "snuh": null,
-    "severance": "HTTPSConnectionPool(host='yuhs.recruiter.co.kr', port=443): Max retries exceeded with url: /app/jobnotice/list.json (Caused by ConnectTimeoutError(<HTTPSConnection(host='yuhs.recruiter.co.kr', port=443) at 0x7fa7157ac910>, 'Connection to yuhs.recruiter.co.kr timed out. (connect timeout=20)'))"
+    "severance": null
   },
-  "jobs": []
+  "jobs": [
+    {
+      "hospital": "세브란스병원-신촌",
+      "source": "YUHS Recruiter",
+      "title": "[일반-신촌] 임상병리사(단기계약직) 세브)진단검사의학팀 26.06 모집",
+      "status": "접수중",
+      "career_type": "일반채용",
+      "application_period": "2026.06.04 00:00 ~ 2026.06.10 23:59",
+      "deadline_count": 2,
+      "positions": [
+        {
+          "employment_type": "단기계약직",
+          "department": "진단검사의학팀",
+          "headcount": "1명",
+          "qualification": "임상병리사 면허",
+          "contract_period": "발령일 ~ 최대 2026년 10월 31일까지"
+        }
+      ],
+      "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=255942&systemKindCode=MRS2",
+      "jobnotice_sn": 255942,
+      "scraped_at": "2026-06-08T15:27:42+09:00"
+    },
+    {
+      "hospital": "세브란스병원-강남",
+      "source": "YUHS Recruiter",
+      "title": "[일반-강남] 임상병리사(정규직전환조건) 신경과 26.06 모집",
+      "status": "접수중",
+      "career_type": "일반채용",
+      "application_period": "2026.06.05 00:00 ~ 2026.06.08 23:59",
+      "deadline_count": 0,
+      "positions": [
+        {
+          "employment_type": "정규직 전환조건",
+          "department": "",
+          "headcount": "1명",
+          "qualification": "임상병리사 면허",
+          "contract_period": ""
+        }
+      ],
+      "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=256016&systemKindCode=MRS2",
+      "jobnotice_sn": 256016,
+      "scraped_at": "2026-06-08T15:28:19+09:00"
+    },
+    {
+      "hospital": "세브란스병원-강남",
+      "source": "YUHS Recruiter",
+      "title": "[일반-강남] 임상병리사(계약직;단시간) 신경과 26.06 모집",
+      "status": "접수중",
+      "career_type": "일반채용",
+      "application_period": "2026.06.02 00:00 ~ 2026.06.08 23:59",
+      "deadline_count": 0,
+      "positions": [
+        {
+          "employment_type": "계약직",
+          "department": "",
+          "headcount": "1명",
+          "qualification": "임상병리사 면허",
+          "contract_period": "채용일로부터 1년 * 추후 연장 여부 결정"
+        }
+      ],
+      "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=255557&systemKindCode=MRS2",
+      "jobnotice_sn": 255557,
+      "scraped_at": "2026-06-08T15:28:19+09:00"
+    }
+  ]
 }
