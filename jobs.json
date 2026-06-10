@@ -1,32 +1,11 @@
 {
-  "updated_at": "2026-06-10T21:14:02+09:00",
-  "total_count": 2,
+  "updated_at": "2026-06-11T01:13:43+09:00",
+  "total_count": 1,
   "errors": {
     "snuh": null,
     "severance": null
   },
   "jobs": [
-    {
-      "hospital": "세브란스병원-신촌",
-      "source": "YUHS Recruiter",
-      "title": "[일반-신촌] 임상병리사(단기계약직) 세브)진단검사의학팀 26.06 모집",
-      "status": "접수중",
-      "career_type": "일반채용",
-      "application_period": "2026.06.04 00:00 ~ 2026.06.10 23:59",
-      "deadline_count": 0,
-      "positions": [
-        {
-          "employment_type": "단기계약직",
-          "department": "진단검사의학팀",
-          "headcount": "1명",
-          "qualification": "임상병리사 면허",
-          "contract_period": "발령일 ~ 최대 2026년 10월 31일까지"
-        }
-      ],
-      "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=255942&systemKindCode=MRS2",
-      "jobnotice_sn": 255942,
-      "scraped_at": "2026-06-10T21:13:20+09:00"
-    },
     {
       "hospital": "세브란스병원-용인",
       "source": "YUHS Recruiter",
@@ -34,7 +13,7 @@
       "status": "접수중",
       "career_type": "일반채용",
       "application_period": "2026.06.08 00:00 ~ 2026.06.17 23:59",
-      "deadline_count": 7,
+      "deadline_count": 6,
       "positions": [
         {
           "employment_type": "계약직",
@@ -46,7 +25,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=256287&systemKindCode=MRS2",
       "jobnotice_sn": 256287,
-      "scraped_at": "2026-06-10T21:13:59+09:00"
+      "scraped_at": "2026-06-11T01:13:40+09:00"
     }
   ]
 }
