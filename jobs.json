@@ -1,11 +1,32 @@
 {
-  "updated_at": "2026-06-16T07:32:57+09:00",
-  "total_count": 1,
+  "updated_at": "2026-06-16T09:23:24+09:00",
+  "total_count": 2,
   "errors": {
     "snuh": null,
     "severance": null
   },
   "jobs": [
+    {
+      "hospital": "세브란스병원-강남",
+      "source": "YUHS Recruiter",
+      "title": "[일반-강남] 임상병리사(계약직) 진단검사의학팀 26.06 모집",
+      "status": "접수중",
+      "career_type": "일반채용",
+      "application_period": "2026.06.15 00:00 ~ 2026.06.21 23:59",
+      "deadline_count": 5,
+      "positions": [
+        {
+          "employment_type": "계약직",
+          "department": "진단검사의학팀",
+          "headcount": "1명",
+          "qualification": "임상병리사 면허",
+          "contract_period": "채용일로부터 1년 * 추후 연장 여부 결정"
+        }
+      ],
+      "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=257053&systemKindCode=MRS2",
+      "jobnotice_sn": 257053,
+      "scraped_at": "2026-06-16T09:23:18+09:00"
+    },
     {
       "hospital": "세브란스병원-용인",
       "source": "YUHS Recruiter",
@@ -25,7 +46,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=256287&systemKindCode=MRS2",
       "jobnotice_sn": 256287,
-      "scraped_at": "2026-06-16T07:32:53+09:00"
+      "scraped_at": "2026-06-16T09:23:20+09:00"
     }
   ]
 }
