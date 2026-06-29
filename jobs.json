@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T22:50:00+09:00",
+  "updated_at": "2026-06-30T01:49:14+09:00",
   "total_count": 1,
   "errors": {
     "snuh": null,
@@ -13,7 +13,7 @@
       "status": "접수중",
       "career_type": "일반채용",
       "application_period": "2026.06.25 00:00 ~ 2026.07.04 23:59",
-      "deadline_count": 5,
+      "deadline_count": 4,
       "positions": [
         {
           "employment_type": "계약직",
@@ -25,7 +25,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=257684&systemKindCode=MRS2",
       "jobnotice_sn": 257684,
-      "scraped_at": "2026-06-29T22:49:17+09:00"
+      "scraped_at": "2026-06-30T01:48:34+09:00"
     }
   ]
 }
