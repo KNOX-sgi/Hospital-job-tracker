@@ -1,31 +1,9 @@
 {
-  "updated_at": "2026-07-01T22:31:14+09:00",
-  "total_count": 1,
+  "updated_at": "2026-07-02T01:15:03+09:00",
+  "total_count": 0,
   "errors": {
     "snuh": null,
-    "severance": null
+    "severance": "Expecting value: line 1 column 1 (char 0)"
   },
-  "jobs": [
-    {
-      "hospital": "세브란스병원-신촌",
-      "source": "YUHS Recruiter",
-      "title": "[일반-신촌] 임상병리사(계약직) 세브)V팀(VIP건강증진센터) 26.06 모집",
-      "status": "접수중",
-      "career_type": "일반채용",
-      "application_period": "2026.06.25 00:00 ~ 2026.07.04 23:59",
-      "deadline_count": 3,
-      "positions": [
-        {
-          "employment_type": "계약직",
-          "department": "",
-          "headcount": "1명",
-          "qualification": "임상병리사 면허",
-          "contract_period": ""
-        }
-      ],
-      "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=257684&systemKindCode=MRS2",
-      "jobnotice_sn": 257684,
-      "scraped_at": "2026-07-01T22:30:34+09:00"
-    }
-  ]
+  "jobs": []
 }
