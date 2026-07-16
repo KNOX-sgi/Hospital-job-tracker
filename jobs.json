@@ -1,9 +1,31 @@
 {
-  "updated_at": "2026-07-16T12:55:31+09:00",
-  "total_count": 0,
+  "updated_at": "2026-07-16T15:09:52+09:00",
+  "total_count": 1,
   "errors": {
     "snuh": null,
     "severance": null
   },
-  "jobs": []
+  "jobs": [
+    {
+      "hospital": "세브란스병원-강남",
+      "source": "YUHS Recruiter",
+      "title": "[일반-강남] 임상병리사(계약직) 병리팀 26.07 모집",
+      "status": "접수중",
+      "career_type": "일반채용",
+      "application_period": "2026.07.16 00:00 ~ 2026.07.22 23:59",
+      "deadline_count": 6,
+      "positions": [
+        {
+          "employment_type": "계약직",
+          "department": "병리팀",
+          "headcount": "1명",
+          "qualification": "임상병리사 면허",
+          "contract_period": "채용일 ~ 27.02.28. 限 * 추후 연장여부 결정"
+        }
+      ],
+      "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=260471&systemKindCode=MRS2",
+      "jobnotice_sn": 260471,
+      "scraped_at": "2026-07-16T15:09:48+09:00"
+    }
+  ]
 }
