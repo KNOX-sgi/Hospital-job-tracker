@@ -1,11 +1,32 @@
 {
-  "updated_at": "2026-07-20T08:46:31+09:00",
-  "total_count": 1,
+  "updated_at": "2026-07-20T10:54:58+09:00",
+  "total_count": 2,
   "errors": {
     "snuh": null,
     "severance": null
   },
   "jobs": [
+    {
+      "hospital": "세브란스병원-강남",
+      "source": "YUHS Recruiter",
+      "title": "[일반-강남] 비서(계약직) 진단검사의학과 26.07 모집",
+      "status": "접수중",
+      "career_type": "일반채용",
+      "application_period": "2026.07.20 00:00 ~ 2026.07.23 23:59",
+      "deadline_count": 3,
+      "positions": [
+        {
+          "employment_type": "계약직",
+          "department": "진단검사의학과",
+          "headcount": "1명",
+          "qualification": "",
+          "contract_period": "채용일로부터 1년 *"
+        }
+      ],
+      "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=260544&systemKindCode=MRS2",
+      "jobnotice_sn": 260544,
+      "scraped_at": "2026-07-20T10:54:53+09:00"
+    },
     {
       "hospital": "세브란스병원-강남",
       "source": "YUHS Recruiter",
@@ -25,7 +46,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=260471&systemKindCode=MRS2",
       "jobnotice_sn": 260471,
-      "scraped_at": "2026-07-20T08:46:26+09:00"
+      "scraped_at": "2026-07-20T10:54:53+09:00"
     }
   ]
 }
