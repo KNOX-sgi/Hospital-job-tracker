@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T22:02:39+09:00",
+  "updated_at": "2026-07-31T00:29:30+09:00",
   "total_count": 1,
   "errors": {
     "snuh": null,
@@ -13,7 +13,7 @@
       "status": "접수중",
       "career_type": "일반채용",
       "application_period": "2026.07.29 00:00 ~ 2026.08.07 23:59",
-      "deadline_count": 8,
+      "deadline_count": 7,
       "positions": [
         {
           "employment_type": "정규직 전환조건",
@@ -25,7 +25,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=261072&systemKindCode=MRS2",
       "jobnotice_sn": 261072,
-      "scraped_at": "2026-07-30T22:01:57+09:00"
+      "scraped_at": "2026-07-31T00:28:46+09:00"
     }
   ]
 }
