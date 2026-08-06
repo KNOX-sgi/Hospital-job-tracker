@@ -1,11 +1,32 @@
 {
-  "updated_at": "2026-08-06T08:47:41+09:00",
-  "total_count": 3,
+  "updated_at": "2026-08-06T10:26:09+09:00",
+  "total_count": 4,
   "errors": {
     "snuh": null,
     "severance": null
   },
   "jobs": [
+    {
+      "hospital": "세브란스병원-신촌",
+      "source": "YUHS Recruiter",
+      "title": "[일반-신촌] 임상병리사(계약직) 세브)호흡기내과 26.08 모집",
+      "status": "접수중",
+      "career_type": "일반채용",
+      "application_period": "2026.08.06 00:00 ~ 2026.08.12 23:59",
+      "deadline_count": 6,
+      "positions": [
+        {
+          "employment_type": "계약직",
+          "department": "",
+          "headcount": "1명",
+          "qualification": "임상병리사 면허",
+          "contract_period": ""
+        }
+      ],
+      "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=262198&systemKindCode=MRS2",
+      "jobnotice_sn": 262198,
+      "scraped_at": "2026-08-06T10:25:23+09:00"
+    },
     {
       "hospital": "세브란스병원-신촌",
       "source": "YUHS Recruiter",
@@ -25,7 +46,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=262194&systemKindCode=MRS2",
       "jobnotice_sn": 262194,
-      "scraped_at": "2026-08-06T08:46:59+09:00"
+      "scraped_at": "2026-08-06T10:25:24+09:00"
     },
     {
       "hospital": "세브란스병원-신촌",
@@ -46,7 +67,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=261072&systemKindCode=MRS2",
       "jobnotice_sn": 261072,
-      "scraped_at": "2026-08-06T08:46:59+09:00"
+      "scraped_at": "2026-08-06T10:25:24+09:00"
     },
     {
       "hospital": "세브란스병원-강남",
@@ -67,7 +88,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=262007&systemKindCode=MRS2",
       "jobnotice_sn": 262007,
-      "scraped_at": "2026-08-06T08:47:37+09:00"
+      "scraped_at": "2026-08-06T10:26:05+09:00"
     }
   ]
 }
