@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T23:50:11+09:00",
+  "updated_at": "2026-08-12T00:49:01+09:00",
   "total_count": 4,
   "errors": {
     "snuh": null,
@@ -13,7 +13,7 @@
       "status": "접수중",
       "career_type": "일반채용",
       "application_period": "2026.08.11 00:00 ~ 2026.08.20 23:59",
-      "deadline_count": 9,
+      "deadline_count": 8,
       "positions": [
         {
           "employment_type": "계약직",
@@ -25,7 +25,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=262455&systemKindCode=MRS2",
       "jobnotice_sn": 262455,
-      "scraped_at": "2026-08-11T23:49:27+09:00"
+      "scraped_at": "2026-08-12T00:48:17+09:00"
     },
     {
       "hospital": "세브란스병원-신촌",
@@ -34,7 +34,7 @@
       "status": "접수중",
       "career_type": "일반채용",
       "application_period": "2026.08.06 00:00 ~ 2026.08.12 23:59",
-      "deadline_count": 1,
+      "deadline_count": 0,
       "positions": [
         {
           "employment_type": "계약직",
@@ -46,7 +46,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=262198&systemKindCode=MRS2",
       "jobnotice_sn": 262198,
-      "scraped_at": "2026-08-11T23:49:28+09:00"
+      "scraped_at": "2026-08-12T00:48:17+09:00"
     },
     {
       "hospital": "세브란스병원-신촌",
@@ -55,7 +55,7 @@
       "status": "접수중",
       "career_type": "일반채용",
       "application_period": "2026.08.05 00:00 ~ 2026.08.14 23:59",
-      "deadline_count": 3,
+      "deadline_count": 2,
       "positions": [
         {
           "employment_type": "계약직",
@@ -67,7 +67,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=262194&systemKindCode=MRS2",
       "jobnotice_sn": 262194,
-      "scraped_at": "2026-08-11T23:49:29+09:00"
+      "scraped_at": "2026-08-12T00:48:19+09:00"
     },
     {
       "hospital": "세브란스병원-강남",
@@ -76,7 +76,7 @@
       "status": "접수중",
       "career_type": "일반채용",
       "application_period": "2026.08.11 00:00 ~ 2026.08.17 23:59",
-      "deadline_count": 6,
+      "deadline_count": 5,
       "positions": [
         {
           "employment_type": "계약직",
@@ -88,7 +88,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=262773&systemKindCode=MRS2",
       "jobnotice_sn": 262773,
-      "scraped_at": "2026-08-11T23:50:07+09:00"
+      "scraped_at": "2026-08-12T00:48:57+09:00"
     }
   ]
 }
