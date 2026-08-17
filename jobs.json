@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-17T23:51:19+09:00",
-  "total_count": 3,
+  "updated_at": "2026-08-18T00:15:49+09:00",
+  "total_count": 2,
   "errors": {
     "snuh": null,
     "severance": null
@@ -13,7 +13,7 @@
       "status": "접수중",
       "career_type": "일반채용",
       "application_period": "2026.08.11 00:00 ~ 2026.08.20 23:59",
-      "deadline_count": 3,
+      "deadline_count": 2,
       "positions": [
         {
           "employment_type": "계약직",
@@ -25,7 +25,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=262455&systemKindCode=MRS2",
       "jobnotice_sn": 262455,
-      "scraped_at": "2026-08-17T23:50:35+09:00"
+      "scraped_at": "2026-08-18T00:15:03+09:00"
     },
     {
       "hospital": "세브란스병원-강남",
@@ -34,7 +34,7 @@
       "status": "접수중",
       "career_type": "일반채용",
       "application_period": "2026.08.14 00:00 ~ 2026.08.18 23:59",
-      "deadline_count": 1,
+      "deadline_count": 0,
       "positions": [
         {
           "employment_type": "계약직",
@@ -46,28 +46,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=263242&systemKindCode=MRS2",
       "jobnotice_sn": 263242,
-      "scraped_at": "2026-08-17T23:51:14+09:00"
-    },
-    {
-      "hospital": "세브란스병원-강남",
-      "source": "YUHS Recruiter",
-      "title": "[일반-강남] 임상병리사(계약직) 진단검사의학팀 26.08 모집",
-      "status": "접수중",
-      "career_type": "일반채용",
-      "application_period": "2026.08.11 00:00 ~ 2026.08.17 23:59",
-      "deadline_count": 0,
-      "positions": [
-        {
-          "employment_type": "계약직",
-          "department": "진단검사의학팀",
-          "headcount": "1명",
-          "qualification": "임상병리사 면허",
-          "contract_period": "채용일로부터 1년 * 추후 연장 여부 결정"
-        }
-      ],
-      "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=262773&systemKindCode=MRS2",
-      "jobnotice_sn": 262773,
-      "scraped_at": "2026-08-17T23:51:14+09:00"
+      "scraped_at": "2026-08-18T00:15:44+09:00"
     }
   ]
 }
