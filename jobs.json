@@ -1,32 +1,11 @@
 {
-  "updated_at": "2026-08-20T23:06:37+09:00",
-  "total_count": 3,
+  "updated_at": "2026-08-21T00:01:51+09:00",
+  "total_count": 2,
   "errors": {
     "snuh": null,
     "severance": null
   },
   "jobs": [
-    {
-      "hospital": "세브란스병원-신촌",
-      "source": "YUHS Recruiter",
-      "title": "[일반-신촌] 임상병리사(계약직) 세브)병리팀 26.08 모집",
-      "status": "접수중",
-      "career_type": "일반채용",
-      "application_period": "2026.08.11 00:00 ~ 2026.08.20 23:59",
-      "deadline_count": 0,
-      "positions": [
-        {
-          "employment_type": "계약직",
-          "department": "병리팀",
-          "headcount": "1명",
-          "qualification": "임상병리사 면허",
-          "contract_period": ""
-        }
-      ],
-      "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=262455&systemKindCode=MRS2",
-      "jobnotice_sn": 262455,
-      "scraped_at": "2026-08-20T23:05:51+09:00"
-    },
     {
       "hospital": "세브란스병원-강남",
       "source": "YUHS Recruiter",
@@ -34,7 +13,7 @@
       "status": "접수중",
       "career_type": "일반채용",
       "application_period": "2026.08.19 00:00 ~ 2026.08.25 23:59",
-      "deadline_count": 5,
+      "deadline_count": 4,
       "positions": [
         {
           "employment_type": "계약직",
@@ -46,7 +25,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=263614&systemKindCode=MRS2",
       "jobnotice_sn": 263614,
-      "scraped_at": "2026-08-20T23:06:32+09:00"
+      "scraped_at": "2026-08-21T00:01:45+09:00"
     },
     {
       "hospital": "세브란스병원-용인",
@@ -55,7 +34,7 @@
       "status": "접수중",
       "career_type": "일반채용",
       "application_period": "2026.08.18 00:00 ~ 2026.08.24 23:59",
-      "deadline_count": 4,
+      "deadline_count": 3,
       "positions": [
         {
           "employment_type": "계약직",
@@ -67,7 +46,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=263468&systemKindCode=MRS2",
       "jobnotice_sn": 263468,
-      "scraped_at": "2026-08-20T23:06:33+09:00"
+      "scraped_at": "2026-08-21T00:01:47+09:00"
     }
   ]
 }
