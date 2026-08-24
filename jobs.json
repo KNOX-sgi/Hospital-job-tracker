@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-25T03:23:56+09:00",
+  "updated_at": "2026-08-25T04:08:38+09:00",
   "total_count": 1,
   "errors": {
-    "snuh": "HTTPSConnectionPool(host='recruit.snuh.org', port=443): Max retries exceeded with url: /joining/recruit/list.do?pageIndex=1&career_cd=&spt_field=&searchKey=&searchWord= (Caused by ConnectTimeoutError(<HTTPSConnection(host='recruit.snuh.org', port=443) at 0x7f6b93b92ed0>, 'Connection to recruit.snuh.org timed out. (connect timeout=20)'))",
+    "snuh": "HTTPSConnectionPool(host='recruit.snuh.org', port=443): Max retries exceeded with url: /joining/recruit/list.do?pageIndex=1&career_cd=&spt_field=&searchKey=&searchWord= (Caused by ConnectTimeoutError(<HTTPSConnection(host='recruit.snuh.org', port=443) at 0x7f7f49063fd0>, 'Connection to recruit.snuh.org timed out. (connect timeout=20)'))",
     "severance": null
   },
   "jobs": [
@@ -25,7 +25,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=263614&systemKindCode=MRS2",
       "jobnotice_sn": 263614,
-      "scraped_at": "2026-08-25T03:23:51+09:00"
+      "scraped_at": "2026-08-25T04:08:33+09:00"
     }
   ]
 }
