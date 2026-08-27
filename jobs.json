@@ -1,9 +1,31 @@
 {
-  "updated_at": "2026-08-27T08:50:44+09:00",
-  "total_count": 0,
+  "updated_at": "2026-08-27T14:37:18+09:00",
+  "total_count": 1,
   "errors": {
     "snuh": null,
     "severance": null
   },
-  "jobs": []
+  "jobs": [
+    {
+      "hospital": "세브란스병원-신촌",
+      "source": "YUHS Recruiter",
+      "title": "[일반-신촌] 임상병리사(계약직) 심혈관)심장내과 26.08 모집",
+      "status": "접수중",
+      "career_type": "일반채용",
+      "application_period": "2026.08.27 00:00 ~ 2026.09.05 23:59",
+      "deadline_count": 9,
+      "positions": [
+        {
+          "employment_type": "계약직",
+          "department": "",
+          "headcount": "1명",
+          "qualification": "임상병리사 면허",
+          "contract_period": "발령일 ~ 최대 '27.02.28까지"
+        }
+      ],
+      "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=264339&systemKindCode=MRS2",
+      "jobnotice_sn": 264339,
+      "scraped_at": "2026-08-27T14:36:30+09:00"
+    }
+  ]
 }
