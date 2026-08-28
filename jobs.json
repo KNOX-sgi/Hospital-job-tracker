@@ -1,11 +1,32 @@
 {
-  "updated_at": "2026-08-28T10:34:20+09:00",
-  "total_count": 1,
+  "updated_at": "2026-08-28T22:30:55+09:00",
+  "total_count": 2,
   "errors": {
-    "snuh": "HTTPSConnectionPool(host='recruit.snuh.org', port=443): Max retries exceeded with url: /joining/recruit/list.do?pageIndex=1&career_cd=&spt_field=&searchKey=&searchWord= (Caused by ConnectTimeoutError(<HTTPSConnection(host='recruit.snuh.org', port=443) at 0x7fe749faf510>, 'Connection to recruit.snuh.org timed out. (connect timeout=20)'))",
+    "snuh": null,
     "severance": null
   },
   "jobs": [
+    {
+      "hospital": "세브란스병원-신촌",
+      "source": "YUHS Recruiter",
+      "title": "[일반-신촌]임상병리사(정규직전환조건 계약직) 의대)병리학교실 26.08 모집",
+      "status": "접수중",
+      "career_type": "일반채용",
+      "application_period": "2026.08.28 00:00 ~ 2026.09.07 23:59",
+      "deadline_count": 10,
+      "positions": [
+        {
+          "employment_type": "정규직 전환조건",
+          "department": "병리과",
+          "headcount": "1명",
+          "qualification": "임상병리사 면허",
+          "contract_period": ""
+        }
+      ],
+      "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=264394&systemKindCode=MRS2",
+      "jobnotice_sn": 264394,
+      "scraped_at": "2026-08-28T22:30:08+09:00"
+    },
     {
       "hospital": "세브란스병원-신촌",
       "source": "YUHS Recruiter",
@@ -25,7 +46,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=264339&systemKindCode=MRS2",
       "jobnotice_sn": 264339,
-      "scraped_at": "2026-08-28T10:33:35+09:00"
+      "scraped_at": "2026-08-28T22:30:08+09:00"
     }
   ]
 }
