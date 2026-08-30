@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-30T11:15:58+09:00",
+  "updated_at": "2026-08-30T17:26:05+09:00",
   "total_count": 2,
   "errors": {
-    "snuh": "HTTPSConnectionPool(host='recruit.snuh.org', port=443): Max retries exceeded with url: /joining/recruit/list.do?pageIndex=1&career_cd=&spt_field=&searchKey=&searchWord= (Caused by ConnectTimeoutError(<HTTPSConnection(host='recruit.snuh.org', port=443) at 0x7fe09a93f4d0>, 'Connection to recruit.snuh.org timed out. (connect timeout=20)'))",
+    "snuh": "HTTPSConnectionPool(host='recruit.snuh.org', port=443): Max retries exceeded with url: /joining/recruit/list.do?pageIndex=1&career_cd=&spt_field=&searchKey=&searchWord= (Caused by ConnectTimeoutError(<HTTPSConnection(host='recruit.snuh.org', port=443) at 0x7f7a7b73f5d0>, 'Connection to recruit.snuh.org timed out. (connect timeout=20)'))",
     "severance": null
   },
   "jobs": [
@@ -25,7 +25,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=264394&systemKindCode=MRS2",
       "jobnotice_sn": 264394,
-      "scraped_at": "2026-08-30T11:15:10+09:00"
+      "scraped_at": "2026-08-30T17:25:21+09:00"
     },
     {
       "hospital": "세브란스병원-신촌",
@@ -46,7 +46,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=264339&systemKindCode=MRS2",
       "jobnotice_sn": 264339,
-      "scraped_at": "2026-08-30T11:15:10+09:00"
+      "scraped_at": "2026-08-30T17:25:21+09:00"
     }
   ]
 }
