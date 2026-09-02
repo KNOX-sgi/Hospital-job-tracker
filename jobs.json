@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T22:57:09+09:00",
+  "updated_at": "2026-09-03T02:32:11+09:00",
   "total_count": 3,
   "errors": {
     "snuh": null,
@@ -13,7 +13,7 @@
       "status": "접수중",
       "career_type": "일반채용",
       "application_period": "2026.09.01 00:00 ~ 2026.09.10 23:59",
-      "deadline_count": 8,
+      "deadline_count": 7,
       "positions": [
         {
           "employment_type": "계약직",
@@ -25,7 +25,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=264897&systemKindCode=MRS2",
       "jobnotice_sn": 264897,
-      "scraped_at": "2026-09-02T22:56:23+09:00"
+      "scraped_at": "2026-09-03T02:31:25+09:00"
     },
     {
       "hospital": "세브란스병원-신촌",
@@ -34,7 +34,7 @@
       "status": "접수중",
       "career_type": "일반채용",
       "application_period": "2026.08.28 00:00 ~ 2026.09.07 23:59",
-      "deadline_count": 5,
+      "deadline_count": 4,
       "positions": [
         {
           "employment_type": "정규직 전환조건",
@@ -46,7 +46,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=264394&systemKindCode=MRS2",
       "jobnotice_sn": 264394,
-      "scraped_at": "2026-09-02T22:56:23+09:00"
+      "scraped_at": "2026-09-03T02:31:26+09:00"
     },
     {
       "hospital": "세브란스병원-신촌",
@@ -55,7 +55,7 @@
       "status": "접수중",
       "career_type": "일반채용",
       "application_period": "2026.08.27 00:00 ~ 2026.09.05 23:59",
-      "deadline_count": 3,
+      "deadline_count": 2,
       "positions": [
         {
           "employment_type": "계약직",
@@ -67,7 +67,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=264339&systemKindCode=MRS2",
       "jobnotice_sn": 264339,
-      "scraped_at": "2026-09-02T22:56:24+09:00"
+      "scraped_at": "2026-09-03T02:31:26+09:00"
     }
   ]
 }
