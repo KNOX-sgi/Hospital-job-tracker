@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T18:56:35+09:00",
+  "updated_at": "2026-09-08T00:24:15+09:00",
   "total_count": 2,
   "errors": {
     "snuh": null,
@@ -13,7 +13,7 @@
       "status": "접수중",
       "career_type": "일반채용",
       "application_period": "2026.09.01 00:00 ~ 2026.09.10 23:59",
-      "deadline_count": 3,
+      "deadline_count": 2,
       "positions": [
         {
           "employment_type": "계약직",
@@ -25,28 +25,28 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=264897&systemKindCode=MRS2",
       "jobnotice_sn": 264897,
-      "scraped_at": "2026-09-07T18:55:50+09:00"
+      "scraped_at": "2026-09-08T00:23:28+09:00"
     },
     {
-      "hospital": "세브란스병원-신촌",
+      "hospital": "세브란스병원-용인",
       "source": "YUHS Recruiter",
-      "title": "[일반-신촌]임상병리사(정규직전환조건 계약직) 의대)병리학교실 26.08 모집",
+      "title": "[일반-용인] 진단검사의학팀 임상병리사(계약직) 신규채용 26.09",
       "status": "접수중",
       "career_type": "일반채용",
-      "application_period": "2026.08.28 00:00 ~ 2026.09.07 23:59",
-      "deadline_count": 0,
+      "application_period": "2026.09.07 00:00 ~ 2026.09.14 00:00",
+      "deadline_count": 6,
       "positions": [
         {
-          "employment_type": "정규직 전환조건",
-          "department": "병리과",
+          "employment_type": "계약직",
+          "department": "진단검사의학팀",
           "headcount": "1명",
           "qualification": "임상병리사 면허",
-          "contract_period": ""
+          "contract_period": "발령일로부터 1년(근무평가에 따라 연장 가능)"
         }
       ],
-      "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=264394&systemKindCode=MRS2",
-      "jobnotice_sn": 264394,
-      "scraped_at": "2026-09-07T18:55:50+09:00"
+      "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=265368&systemKindCode=MRS2",
+      "jobnotice_sn": 265368,
+      "scraped_at": "2026-09-08T00:24:11+09:00"
     }
   ]
 }
