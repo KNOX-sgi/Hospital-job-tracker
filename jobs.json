@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T22:40:18+09:00",
+  "updated_at": "2026-09-13T01:36:36+09:00",
   "total_count": 2,
   "errors": {
     "snuh": null,
@@ -13,7 +13,7 @@
       "status": "접수중",
       "career_type": "일반채용",
       "application_period": "2026.09.11 00:00 ~ 2026.09.16 23:59",
-      "deadline_count": 4,
+      "deadline_count": 3,
       "positions": [
         {
           "employment_type": "계약직",
@@ -25,7 +25,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=266249&systemKindCode=MRS2",
       "jobnotice_sn": 266249,
-      "scraped_at": "2026-09-12T22:40:12+09:00"
+      "scraped_at": "2026-09-13T01:36:31+09:00"
     },
     {
       "hospital": "세브란스병원-용인",
@@ -34,7 +34,7 @@
       "status": "접수중",
       "career_type": "일반채용",
       "application_period": "2026.09.07 00:00 ~ 2026.09.13 23:59",
-      "deadline_count": 1,
+      "deadline_count": 0,
       "positions": [
         {
           "employment_type": "계약직",
@@ -46,7 +46,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=265368&systemKindCode=MRS2",
       "jobnotice_sn": 265368,
-      "scraped_at": "2026-09-12T22:40:13+09:00"
+      "scraped_at": "2026-09-13T01:36:32+09:00"
     }
   ]
 }
