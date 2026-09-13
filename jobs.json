@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-13T21:09:49+09:00",
-  "total_count": 2,
+  "updated_at": "2026-09-14T01:31:28+09:00",
+  "total_count": 1,
   "errors": {
     "snuh": null,
     "severance": null
@@ -13,7 +13,7 @@
       "status": "접수중",
       "career_type": "일반채용",
       "application_period": "2026.09.11 00:00 ~ 2026.09.16 23:59",
-      "deadline_count": 3,
+      "deadline_count": 2,
       "positions": [
         {
           "employment_type": "계약직",
@@ -25,28 +25,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=266249&systemKindCode=MRS2",
       "jobnotice_sn": 266249,
-      "scraped_at": "2026-09-13T21:09:43+09:00"
-    },
-    {
-      "hospital": "세브란스병원-용인",
-      "source": "YUHS Recruiter",
-      "title": "[일반-용인] 진단검사의학팀 임상병리사(계약직) 신규채용 26.09",
-      "status": "접수중",
-      "career_type": "일반채용",
-      "application_period": "2026.09.07 00:00 ~ 2026.09.13 23:59",
-      "deadline_count": 0,
-      "positions": [
-        {
-          "employment_type": "계약직",
-          "department": "진단검사의학팀",
-          "headcount": "1명",
-          "qualification": "임상병리사 면허",
-          "contract_period": "발령일로부터 1년(근무평가에 따라 연장 가능)"
-        }
-      ],
-      "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=265368&systemKindCode=MRS2",
-      "jobnotice_sn": 265368,
-      "scraped_at": "2026-09-13T21:09:45+09:00"
+      "scraped_at": "2026-09-14T01:31:22+09:00"
     }
   ]
 }
