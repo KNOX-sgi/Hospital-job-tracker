@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-23T21:25:39+09:00",
-  "total_count": 3,
+  "updated_at": "2026-09-24T02:19:24+09:00",
+  "total_count": 1,
   "errors": {
     "snuh": null,
     "severance": null
@@ -13,7 +13,7 @@
       "status": "접수중",
       "career_type": "일반채용",
       "application_period": "2026.09.16 00:00 ~ 2026.09.25 23:59",
-      "deadline_count": 2,
+      "deadline_count": 1,
       "positions": [
         {
           "employment_type": "계약직",
@@ -25,49 +25,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=266635&systemKindCode=MRS2",
       "jobnotice_sn": 266635,
-      "scraped_at": "2026-09-23T21:24:49+09:00"
-    },
-    {
-      "hospital": "세브란스병원-신촌",
-      "source": "YUHS Recruiter",
-      "title": "[일반-신촌] 임상병리사(계약직) 세브)병리팀 26.09 모집",
-      "status": "접수중",
-      "career_type": "일반채용",
-      "application_period": "2026.09.14 00:00 ~ 2026.09.23 23:59",
-      "deadline_count": 0,
-      "positions": [
-        {
-          "employment_type": "계약직",
-          "department": "병리팀",
-          "headcount": "1명",
-          "qualification": "임상병리사 면허",
-          "contract_period": ""
-        }
-      ],
-      "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=266276&systemKindCode=MRS2",
-      "jobnotice_sn": 266276,
-      "scraped_at": "2026-09-23T21:24:50+09:00"
-    },
-    {
-      "hospital": "세브란스병원-신촌",
-      "source": "YUHS Recruiter",
-      "title": "[일반-신촌] 임상병리사(계약직) 세브)진단검사의학팀 26.09 모집 (육아휴직 대체)",
-      "status": "접수중",
-      "career_type": "일반채용",
-      "application_period": "2026.09.14 00:00 ~ 2026.09.23 23:59",
-      "deadline_count": 0,
-      "positions": [
-        {
-          "employment_type": "계약직",
-          "department": "진단검사의학팀",
-          "headcount": "1명",
-          "qualification": "임상병리사 면허",
-          "contract_period": "발령일 ~ 최대 2028.01.16"
-        }
-      ],
-      "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=266272&systemKindCode=MRS2",
-      "jobnotice_sn": 266272,
-      "scraped_at": "2026-09-23T21:24:50+09:00"
+      "scraped_at": "2026-09-24T02:18:39+09:00"
     }
   ]
 }
