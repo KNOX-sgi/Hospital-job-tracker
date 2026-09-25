@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T17:01:29+09:00",
+  "updated_at": "2026-09-25T22:59:22+09:00",
   "total_count": 1,
   "errors": {
     "snuh": null,
@@ -25,7 +25,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=266635&systemKindCode=MRS2",
       "jobnotice_sn": 266635,
-      "scraped_at": "2026-09-25T17:00:42+09:00"
+      "scraped_at": "2026-09-25T22:58:34+09:00"
     }
   ]
 }
