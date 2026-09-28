@@ -1,9 +1,31 @@
 {
-  "updated_at": "2026-09-28T10:51:17+09:00",
-  "total_count": 0,
+  "updated_at": "2026-09-28T16:54:37+09:00",
+  "total_count": 1,
   "errors": {
     "snuh": null,
     "severance": null
   },
-  "jobs": []
+  "jobs": [
+    {
+      "hospital": "세브란스병원-신촌",
+      "source": "YUHS Recruiter",
+      "title": "[일반-신촌] 간호사(계약직, 주40시간), 임상병리사(계약직, 주25시간) 체크업)검진팀 26.09 모집",
+      "status": "접수중",
+      "career_type": "일반채용",
+      "application_period": "2026.09.28 00:00 ~ 2026.10.07 23:59",
+      "deadline_count": 9,
+      "positions": [
+        {
+          "employment_type": "계약직",
+          "department": "진단검사의학과",
+          "headcount": "1명",
+          "qualification": "임상병리사 면허",
+          "contract_period": ""
+        }
+      ],
+      "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=267302&systemKindCode=MRS2",
+      "jobnotice_sn": 267302,
+      "scraped_at": "2026-09-28T16:53:47+09:00"
+    }
+  ]
 }
