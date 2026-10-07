@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T08:09:23+09:00",
+  "updated_at": "2026-10-07T11:32:09+09:00",
   "total_count": 2,
   "errors": {
     "snuh": null,
@@ -25,7 +25,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=267302&systemKindCode=MRS2",
       "jobnotice_sn": 267302,
-      "scraped_at": "2026-10-07T08:08:35+09:00"
+      "scraped_at": "2026-10-07T11:31:21+09:00"
     },
     {
       "hospital": "세브란스병원-강남",
@@ -46,7 +46,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=268198&systemKindCode=MRS2",
       "jobnotice_sn": 268198,
-      "scraped_at": "2026-10-07T08:09:17+09:00"
+      "scraped_at": "2026-10-07T11:32:03+09:00"
     }
   ]
 }
