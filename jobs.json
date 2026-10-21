@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21T19:47:43+09:00",
-  "total_count": 3,
+  "updated_at": "2026-10-22T00:43:58+09:00",
+  "total_count": 2,
   "errors": {
     "snuh": null,
     "severance": null
@@ -13,7 +13,7 @@
       "status": "접수중",
       "career_type": "일반채용",
       "application_period": "2026.10.21 00:00 ~ 2026.10.30 23:59",
-      "deadline_count": 9,
+      "deadline_count": 8,
       "positions": [
         {
           "employment_type": "계약직",
@@ -25,28 +25,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=269808&systemKindCode=MRS2",
       "jobnotice_sn": 269808,
-      "scraped_at": "2026-10-21T19:46:57+09:00"
-    },
-    {
-      "hospital": "세브란스병원-강남",
-      "source": "YUHS Recruiter",
-      "title": "[일반-강남] 임상병리사(계약직) 진단검사의학팀 26.10 모집",
-      "status": "접수중",
-      "career_type": "일반채용",
-      "application_period": "2026.10.16 00:00 ~ 2026.10.21 23:59",
-      "deadline_count": 0,
-      "positions": [
-        {
-          "employment_type": "계약직",
-          "department": "진단검사의학팀",
-          "headcount": "1명",
-          "qualification": "임상병리사 면허",
-          "contract_period": "~ 27.09.29.恨 * 추후 연장 여부 결정"
-        }
-      ],
-      "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=269533&systemKindCode=MRS2",
-      "jobnotice_sn": 269533,
-      "scraped_at": "2026-10-21T19:47:37+09:00"
+      "scraped_at": "2026-10-22T00:43:13+09:00"
     },
     {
       "hospital": "세브란스병원-용인",
@@ -55,7 +34,7 @@
       "status": "접수중",
       "career_type": "일반채용",
       "application_period": "2026.10.21 00:00 ~ 2026.10.27 23:59",
-      "deadline_count": 6,
+      "deadline_count": 5,
       "positions": [
         {
           "employment_type": "계약직",
@@ -67,7 +46,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=269882&systemKindCode=MRS2",
       "jobnotice_sn": 269882,
-      "scraped_at": "2026-10-21T19:47:39+09:00"
+      "scraped_at": "2026-10-22T00:43:53+09:00"
     }
   ]
 }
