@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-28T11:28:15+09:00",
-  "total_count": 1,
+  "updated_at": "2026-10-28T17:49:33+09:00",
+  "total_count": 2,
   "errors": {
     "snuh": null,
     "severance": null
@@ -25,7 +25,28 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=269808&systemKindCode=MRS2",
       "jobnotice_sn": 269808,
-      "scraped_at": "2026-10-28T11:27:29+09:00"
+      "scraped_at": "2026-10-28T17:48:46+09:00"
+    },
+    {
+      "hospital": "세브란스병원-용인",
+      "source": "YUHS Recruiter",
+      "title": "[일반-용인] 헬스체크업 경영팀 임상병리사(계약직) 신규채용 26.10",
+      "status": "접수중",
+      "career_type": "일반채용",
+      "application_period": "2026.10.28 00:00 ~ 2026.11.03 23:59",
+      "deadline_count": 6,
+      "positions": [
+        {
+          "employment_type": "계약직",
+          "department": "",
+          "headcount": "1명",
+          "qualification": "임상병리사 면허",
+          "contract_period": "발령일로부터 1년(근무평가에 따라 연장가능, 최대 2년 근무 가능)"
+        }
+      ],
+      "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=270613&systemKindCode=MRS2",
+      "jobnotice_sn": 270613,
+      "scraped_at": "2026-10-28T17:49:30+09:00"
     }
   ]
 }
