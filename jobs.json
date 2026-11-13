@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13T17:16:31+09:00",
-  "total_count": 3,
+  "updated_at": "2026-11-14T01:36:07+09:00",
+  "total_count": 2,
   "errors": {
     "snuh": null,
     "severance": null
@@ -13,7 +13,7 @@
       "status": "접수중",
       "career_type": "일반채용",
       "application_period": "2026.11.09 00:00 ~ 2026.11.18 23:59",
-      "deadline_count": 5,
+      "deadline_count": 4,
       "positions": [
         {
           "employment_type": "계약직",
@@ -25,28 +25,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=271682&systemKindCode=MRS2",
       "jobnotice_sn": 271682,
-      "scraped_at": "2026-11-13T17:15:49+09:00"
-    },
-    {
-      "hospital": "세브란스병원-신촌",
-      "source": "YUHS Recruiter",
-      "title": "[일반-신촌] 임상병리사(계약직) 안과)간호팀 26.11 모집",
-      "status": "접수중",
-      "career_type": "일반채용",
-      "application_period": "2026.11.04 00:00 ~ 2026.11.13 23:59",
-      "deadline_count": 0,
-      "positions": [
-        {
-          "employment_type": "계약직",
-          "department": "",
-          "headcount": "2명",
-          "qualification": "임상병리사 면허",
-          "contract_period": ""
-        }
-      ],
-      "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=271198&systemKindCode=MRS2",
-      "jobnotice_sn": 271198,
-      "scraped_at": "2026-11-13T17:15:50+09:00"
+      "scraped_at": "2026-11-14T01:35:23+09:00"
     },
     {
       "hospital": "세브란스병원-강남",
@@ -55,7 +34,7 @@
       "status": "접수중",
       "career_type": "일반채용",
       "application_period": "2026.11.09 00:00 ~ 2026.11.15 23:59",
-      "deadline_count": 2,
+      "deadline_count": 1,
       "positions": [
         {
           "employment_type": "계약직",
@@ -67,7 +46,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=271887&systemKindCode=MRS2",
       "jobnotice_sn": 271887,
-      "scraped_at": "2026-11-13T17:16:29+09:00"
+      "scraped_at": "2026-11-14T01:36:05+09:00"
     }
   ]
 }
