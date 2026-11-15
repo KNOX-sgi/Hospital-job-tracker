@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-15T23:30:17+09:00",
-  "total_count": 2,
+  "updated_at": "2026-11-16T04:54:43+09:00",
+  "total_count": 1,
   "errors": {
     "snuh": null,
     "severance": null
@@ -13,7 +13,7 @@
       "status": "접수중",
       "career_type": "일반채용",
       "application_period": "2026.11.09 00:00 ~ 2026.11.18 23:59",
-      "deadline_count": 3,
+      "deadline_count": 2,
       "positions": [
         {
           "employment_type": "계약직",
@@ -25,28 +25,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=271682&systemKindCode=MRS2",
       "jobnotice_sn": 271682,
-      "scraped_at": "2026-11-15T23:29:29+09:00"
-    },
-    {
-      "hospital": "세브란스병원-강남",
-      "source": "YUHS Recruiter",
-      "title": "[일반-강남] 임상병리사(계약직) 심장내과 26.11 모집",
-      "status": "접수중",
-      "career_type": "일반채용",
-      "application_period": "2026.11.09 00:00 ~ 2026.11.15 23:59",
-      "deadline_count": 0,
-      "positions": [
-        {
-          "employment_type": "계약직",
-          "department": "",
-          "headcount": "1명",
-          "qualification": "임상병리사 면허",
-          "contract_period": "채용일 ~ 27.06.30.恨 * 추후 연장 여부 결정"
-        }
-      ],
-      "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=271887&systemKindCode=MRS2",
-      "jobnotice_sn": 271887,
-      "scraped_at": "2026-11-15T23:30:15+09:00"
+      "scraped_at": "2026-11-16T04:53:59+09:00"
     }
   ]
 }
