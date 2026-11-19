@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T10:56:24+09:00",
+  "updated_at": "2026-11-19T18:39:59+09:00",
   "total_count": 3,
   "errors": {
     "snuh": null,
@@ -25,12 +25,12 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=272920&systemKindCode=MRS2",
       "jobnotice_sn": 272920,
-      "scraped_at": "2026-11-19T10:56:21+09:00"
+      "scraped_at": "2026-11-19T18:39:55+09:00"
     },
     {
       "hospital": "세브란스병원-용인",
       "source": "YUHS Recruiter",
-      "title": "[용인세브란스병원] 심장내과 검사실 임상병리사(휴직대체 계약직) 신규채용 26.11",
+      "title": "[일반-용인] 심장내과 검사실 임상병리사(휴직대체 계약직) 신규채용 26.11",
       "status": "접수중",
       "career_type": "일반채용",
       "application_period": "2026.11.18 00:00 ~ 2026.11.24 23:59",
@@ -46,12 +46,12 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=272835&systemKindCode=MRS2",
       "jobnotice_sn": 272835,
-      "scraped_at": "2026-11-19T10:56:22+09:00"
+      "scraped_at": "2026-11-19T18:39:57+09:00"
     },
     {
       "hospital": "세브란스병원-용인",
       "source": "YUHS Recruiter",
-      "title": "[용인세브란스병원] 호흡기·알레르기내과 검사실 임상병리사(계약직) 신규채용 26.11",
+      "title": "[일반-용인] 호흡기·알레르기내과 검사실 임상병리사(계약직) 신규채용 26.11",
       "status": "접수중",
       "career_type": "일반채용",
       "application_period": "2026.11.18 00:00 ~ 2026.11.24 23:59",
@@ -67,7 +67,7 @@
       ],
       "detail_url": "https://yuhs.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=272829&systemKindCode=MRS2",
       "jobnotice_sn": 272829,
-      "scraped_at": "2026-11-19T10:56:22+09:00"
+      "scraped_at": "2026-11-19T18:39:57+09:00"
     }
   ]
 }
